@@ -1,0 +1,5 @@
+vpc-name      = "Dev-vpc"
+igw-name      = "Dev-igw"
+subnet-name   = "Dev-subnet"
+rt-name       = "Dev-route-table"
+sg-name       = "Dev-sg"
